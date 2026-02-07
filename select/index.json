@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Welcome to the Show",
+  "base_artist": "DAY6",
+  "createdAt": "2026-02-07T06:36:40.796992Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Welcome To The Show",
+      "artist": "Laleh",
+      "has_synced": true,
+      "path": "select/01_Welcome_To_The_Show_Laleh.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Welcome to the Show",
+      "artist": "VOSTOK",
+      "has_synced": true,
+      "path": "select/02_Welcome_to_the_Show_VOSTOK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Welcome to the Show",
+      "artist": "DAY6",
+      "has_synced": true,
+      "path": "select/03_Welcome_to_the_Show_DAY6.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Welcome to the Show",
+      "artist": "DAY6",
+      "has_synced": true,
+      "path": "select/04_Welcome_to_the_Show_DAY6.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Welcome To The Show",
+      "artist": "Blue",
+      "has_synced": true,
+      "path": "select/05_Welcome_To_The_Show_Blue.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Welcome to the Show",
+      "artist": "Alice Cooper",
+      "has_synced": true,
+      "path": "select/06_Welcome_to_the_Show_Alice_Cooper.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Welcome To The Show",
+      "artist": "J Dilla",
+      "has_synced": true,
+      "path": "select/07_Welcome_To_The_Show_J_Dilla.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Welcome To The Show",
+      "artist": "DPR IAN",
+      "has_synced": true,
+      "path": "select/08_Welcome_To_The_Show_DPR_IAN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ouverture (Welcome to the Show)",
+      "artist": "Shade",
+      "has_synced": true,
+      "path": "select/09_Ouverture_(Welcome_to_the_Show)_Shade.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Welcome to the Show",
+      "artist": "DAY6 (데이식스)",
+      "has_synced": true,
+      "path": "select/10_Welcome_to_the_Show_DAY6_(데이식스).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Welcome To The Show",
+      "artist": "Cooper Alice",
+      "has_synced": true,
+      "path": "select/11_Welcome_To_The_Show_Cooper_Alice.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Welcome to the Show",
+      "artist": "sunshine blvd.",
+      "has_synced": false,
+      "path": "select/12_Welcome_to_the_Show_sunshine_blvd..txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Welcome to the Show",
+      "artist": "We Were Sharks",
+      "has_synced": false,
+      "path": "select/13_Welcome_to_the_Show_We_Were_Sharks.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Welcome to the Show",
+      "artist": "DAY6",
+      "has_synced": false,
+      "path": "select/pl_01_Welcome_to_the_Show_DAY6.txt"
+    }
+  ]
+}
